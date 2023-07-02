@@ -125,7 +125,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="配置地址"
-                    android:textColor="@android:color/white"
+                    android:textColor="https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json"
                     android:textSize="@dimen/ts_24" />
 
                 <Space
